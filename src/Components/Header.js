@@ -1,7 +1,6 @@
 import React from 'react';
-import "/src/styles.css"
-import backgroundImage from "/src/image.jpeg";
-
+import "/Users/festobwogi/Desktop/Personal Website/src/styles/styles.css"
+import backgroundImage from "/Users/festobwogi/Desktop/Personal Website/src/images/image.jpeg";
 export default function Header() {
     const headerStyle = {
         backgroundImage: `url(${backgroundImage})`,
