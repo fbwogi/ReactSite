@@ -8,8 +8,8 @@ import Project from "./Components/Project"
 import Orgs from "./Components/Orgs"
 import Skills from "./Components/Skills"
 import Teaching from "./Components/Teaching"
-import "/Users/festobwogi/Desktop/Personal Website/src/styles/styles.css"
-
+//import "/Users/festobwogi/Desktop/Personal Website/src/styles/styles.css"
+import "./styles/styles.css"
 export default function App() {
 
 

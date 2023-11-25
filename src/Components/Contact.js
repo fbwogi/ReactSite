@@ -1,5 +1,6 @@
 import React from 'react';
-import "/Users/festobwogi/Desktop/Personal Website/src/styles/styles.css"
+//import "/Users/festobwogi/Desktop/Personal Website/src/styles/styles.css"
+import "./styles/styles.css"
 
 export default function Contact() {
     
